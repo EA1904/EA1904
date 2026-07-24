@@ -27,10 +27,13 @@ Bienvenue sur mon profil GitHub. Je suis passionné(e) par la **Data Science**, 
 ## 📂 Mes Projets Principaux
 
 ### 📊 [visualisations](https://github.com/EA1904/visualisations)
-Un portfolio regroupant mes différents tableaux de bord interactifs conçus sous **Power BI Desktop** :
+Un portfolio regroupant 6 tableaux de bord interactifs conçus sous **Power BI Desktop** (avec des chartes graphiques personnalisées) :
 * **Spotify Listening Trends** : Analyse des habitudes d'écoute mondiales (489 milliards de streams).
-* **GeoSales Azure Map** : Dashboard de ventes avec intégrations géographiques cartographiques avancées (aux couleurs personnalisées).
-* **Performance & Sales Insights** : Dashboard de performance utilisant des Groupes de Calculs DAX pour des métriques temporelles dynamiques (aux couleurs personnalisées).
+* **GeoSales Azure Map** : Visualisations géographiques et cartographies de ventes.
+* **Performance & Sales Insights** : Analyses temporelles dynamiques via les Groupes de Calculs DAX.
+* **eCommerce Conversion** : Suivi des tunnels d'achat et des taux de conversion en ligne.
+* **Sales Teams Quarterly** : Suivi des objectifs et performances individuelles des équipes commerciales.
+* **IT Support Tickets** : Suivi opérationnel des tickets d'assistance et de la conformité SLA.
 
 ### 📉 [MASI-Financial-Risk-Prediction](https://github.com/EA1904/MASI-Financial-Risk-Prediction)
 Modélisation prédictive du risque financier de l'indice boursier marocain **MASI** (Bourse de Casablanca) en utilisant des algorithmes avancés de Machine Learning (notamment **XGBoost**).
