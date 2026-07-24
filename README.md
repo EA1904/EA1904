@@ -27,9 +27,10 @@ Bienvenue sur mon profil GitHub. Je suis passionné(e) par la **Data Science**, 
 ## 📂 Mes Projets Principaux
 
 ### 📊 [visualisations](https://github.com/EA1904/visualisations)
-Un dépôt portfolio regroupant mes projets d'analyse et de visualisation de données interactives :
-* **Spotify Dashboard** (Power BI) : Analyse approfondie des tendances d'écoute de 489 milliards de streams.
-* **Netflix Content Analysis** (Python) : Analyse des genres, types de contenus et tendances de sortie à l'aide de Pandas et Seaborn.
+Un portfolio regroupant mes différents tableaux de bord interactifs conçus sous **Power BI Desktop** :
+* **Spotify Listening Trends** : Analyse des habitudes d'écoute mondiales (489 milliards de streams).
+* **GeoSales Azure Map** : Dashboard de ventes avec intégrations géographiques cartographiques avancées (aux couleurs personnalisées).
+* **Performance & Sales Insights** : Dashboard de performance utilisant des Groupes de Calculs DAX pour des métriques temporelles dynamiques (aux couleurs personnalisées).
 
 ### 📉 [MASI-Financial-Risk-Prediction](https://github.com/EA1904/MASI-Financial-Risk-Prediction)
 Modélisation prédictive du risque financier de l'indice boursier marocain **MASI** (Bourse de Casablanca) en utilisant des algorithmes avancés de Machine Learning (notamment **XGBoost**).
