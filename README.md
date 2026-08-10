@@ -4,9 +4,8 @@
   # 📈 EA1904 | Quantitative Finance & Machine Learning Researcher
   
   *PhD Candidate specialized in Deep Learning, Graph Neural Networks, and Financial Risk Modeling*
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Email](https://img.shields.io/badge/Email-Contact-teal?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ea1904@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-193D48?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-2C5D6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ea1904@example.com)
 </div>
 
 ---
