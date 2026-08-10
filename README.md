@@ -1,48 +1,74 @@
-# 📈 EA1904 | Quantitative Finance & Machine Learning Researcher
+<div align="center">
+  <img src="assets/profile_banner.png" width="100%" alt="EA1904 Profile Banner" style="border-radius: 8px;" />
 
-PhD Candidate specialized in **Quantitative Finance**, **Deep Learning**, and **Financial Risk Modeling**. I design and implement advanced machine learning models (Graph Neural Networks, XGBoost) and build high-end interactive visual analytics portfolios.
-
----
-
-## 🛠️ Expertise & Technical Stack
-
-### 🧠 Data Science & Quantitative Modeling
-- **Languages & Core Libraries:** Python, NumPy, Pandas, Scikit-Learn
-- **Deep Learning & Graph Networks:** PyTorch, PyTorch Geometric (PyG), Graph Attention Networks (GAT), Graph Convolutional Networks (GCN)
-- **Financial Analysis:** Quantitative Backtesting, Risk Attribution, Transaction Cost Stress Testing, Portfolio Optimization
-
-### 📊 Data Visualization & Business Intelligence
-- **Interactive Dashboards:** Power BI Desktop, DAX (Calculation Groups, Advanced Data Modeling), Azure Maps Integration
-- **Scientific Plotting:** Matplotlib, Seaborn (Custom Figma-style publication plots)
+  # 📈 EA1904 | Quantitative Finance & Machine Learning Researcher
+  
+  *PhD Candidate specialized in Deep Learning, Graph Neural Networks, and Financial Risk Modeling*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-teal?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ea1904@example.com)
+</div>
 
 ---
 
-## 📂 Featured Research & Projects
+## 🧠 Research Focus & Expertise
 
-### 🚀 [pead-sp500-research](https://github.com/EA1904/pead-sp500-research)
-**Graph Attention Networks (GAT) for Post-Earnings Announcement Drift (PEAD) Prediction**
-An institutional-grade research platform predicting earnings announcement drifts on the S&P 500 universe using GNNs.
-- **Core Results:** Sector-filtered GAT model achieves a **Sharpe Ratio of 2.326** and **+81.9% Ann. Return** under 4.0 bps friction.
-- **Key Features:** Full quantitative backtesting engine, Ablation studies (GNN Permutation Tests verifying topology vs. weights), and cost stress testing up to 50 bps.
-- *Includes Figma-style strategy tearsheet dashboards.*
+My academic research focus lies at the intersection of **Graph Neural Networks (GNNs)**, **Post-Earnings Announcement Drifts (PEAD)**, and **portfolio stress-testing**. I build highly-optimized backtesting architectures and leverage state-of-the-art Deep Learning models to extract alpha from unstructured and networked market data.
 
-### 📊 [visualisations](https://github.com/EA1904/visualisations)
-**Power BI Interactive Dashboard Portfolio**
-A compilation of 6 advanced, custom-designed business intelligence dashboards utilizing complex DAX calculation groups:
-- **Spotify Listening Trends:** Global streams analysis (489B streams).
-- **GeoSales Azure Map:** Dynamic geographical distribution mapping.
-- **eCommerce Conversion:** Purchase funnel tracking and conversion rate analysis.
-- **IT Support Tickets:** Operational ticketing SLA tracking.
+### 🛠️ Core Tech Stack & Toolkit
 
-### 📉 [MASI-Financial-Risk-Prediction](https://github.com/EA1904/MASI-Financial-Risk-Prediction)
-**Moroccan Stock Index (MASI) Risk Forecasting**
-Predictive modeling platform designed to forecast volatility and downside risks of the Casablanca Stock Exchange (MASI) index using **XGBoost** and ensemble learning.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Quantitative Modeling** | `Python` `NumPy` `Pandas` `Scikit-Learn` `SciPy` |
+| **Deep Learning & GNNs** | `PyTorch` `PyTorch Geometric (PyG)` `GAT / GCN Networks` |
+| **Visual Analytics** | `Power BI` `DAX (Calculation Groups)` `Matplotlib` `Seaborn` |
+| **Infrastructure & Flow** | `Git` `GitHub Actions` `LaTeX` `Markdown` |
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Featured Portfolios & Research Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EA1904&show_icons=true&theme=nord&hide_border=true" alt="EA1904's GitHub Stats" height="160" />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 pead-sp500-research</h3>
+      <p><strong>Graph Attention Networks for PEAD Prediction on the S&P 500</strong></p>
+      <p>An institutional-grade research platform simulating earnings announcement drifts using GNNs.</p>
+      <ul>
+        <li><strong>Top Result:</strong> Sector-filtered GAT model yields a <strong>Sharpe Ratio of 2.326</strong> and <strong>+81.9% Ann. Return</strong> (4.0 bps friction).</li>
+        <li><strong>Ablation Study:</strong> Includes GNN Permutation tests verifying topology-driven alpha and friction stress testing up to 50 bps.</li>
+        <li>Custom Figma-style publication plots.</li>
+      </ul>
+      <a href="https://github.com/EA1904/pead-sp500-research"><strong>Explore Repository »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 visualisations</h3>
+      <p><strong>Power BI Interactive Dashboard Portfolio</strong></p>
+      <p>A compilation of 6 advanced business intelligence dashboards leveraging Azure Map integrations and Calculation Groups.</p>
+      <ul>
+        <li><strong>Spotify Listening Trends:</strong> Global streams analysis (489B streams).</li>
+        <li><strong>GeoSales Azure Map:</strong> Dynamic spatial distribution mapping.</li>
+        <li><strong>eCommerce Conversion:</strong> Dynamic sales funnel and conversion analytics.</li>
+        <li><strong>IT Support Tickets:</strong> Service desk operational SLA tracking.</li>
+      </ul>
+      <a href="https://github.com/EA1904/visualisations"><strong>Explore Repository »</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📉 MASI-Financial-Risk-Prediction</h3>
+      <p><strong>Moroccan Stock Index (MASI) Risk Forecasting</strong></p>
+      <p>Predictive modeling platform designed to forecast volatility and downside risk profiles for the Casablanca Stock Exchange (MASI) index using <strong>XGBoost</strong> and ensemble learning.</p>
+      <a href="https://github.com/EA1904/MASI-Financial-Risk-Prediction"><strong>Explore Repository »</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EA1904&show_icons=true&theme=nord&hide_border=true" alt="EA1904's GitHub Stats" height="160" style="margin-right: 15px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EA1904&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="160" />
 </p>
