@@ -55,11 +55,22 @@ My academic research focus lies at the intersection of **Graph Neural Networks (
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>📉 MASI-Financial-Risk-Prediction</h3>
       <p><strong>Moroccan Stock Index (MASI) Risk Forecasting</strong></p>
       <p>Predictive modeling platform designed to forecast volatility and downside risk profiles for the Casablanca Stock Exchange (MASI) index using <strong>XGBoost</strong> and ensemble learning.</p>
       <a href="https://github.com/EA1904/MASI-Financial-Risk-Prediction"><strong>Explore Repository »</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 usdjpy-algorithmic-models</h3>
+      <p><strong>USD/JPY Quantitative Suite & Audit Framework</strong></p>
+      <p>A statistical auditing suite hosting 15 Python scripts to verify the robustness of trend-following and pullback MetaTrader 5 trading EAs.</p>
+      <ul>
+        <li><strong>Alpha Significance:</strong> Student t-test confirms <strong>95.86% confidence</strong>.</li>
+        <li><strong>Model PRO:</strong> Sharpe ratio of <strong>8.82</strong> with a 2.02% Max DD.</li>
+        <li><strong>Secure IP:</strong> Execution EAs remain private on VM hosts.</li>
+      </ul>
+      <a href="https://github.com/EA1904/usdjpy-algorithmic-models"><strong>Explore Repository »</strong></a>
     </td>
   </tr>
 </table>
