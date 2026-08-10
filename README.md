@@ -1,51 +1,48 @@
-# 👋 Bonjour, je suis EA1904 !
+# 📈 EA1904 | Quantitative Finance & Machine Learning Researcher
 
-Bienvenue sur mon profil GitHub. Je suis passionné(e) par la **Data Science**, l'**Analyse de Données** et la **Modélisation Financière**. Actuellement doctorant(e), je travaille sur l'application du Machine Learning pour la prédiction des risques sur les marchés financiers.
-
----
-
-## 🛠️ Compétences & Outils
-
-### 📊 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 📈 Visualisation de Données
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
-
-### ✍️ Rédaction & Versioning
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+PhD Candidate specialized in **Quantitative Finance**, **Deep Learning**, and **Financial Risk Modeling**. I design and implement advanced machine learning models (Graph Neural Networks, XGBoost) and build high-end interactive visual analytics portfolios.
 
 ---
 
-## 📂 Mes Projets Principaux
+## 🛠️ Expertise & Technical Stack
+
+### 🧠 Data Science & Quantitative Modeling
+- **Languages & Core Libraries:** Python, NumPy, Pandas, Scikit-Learn
+- **Deep Learning & Graph Networks:** PyTorch, PyTorch Geometric (PyG), Graph Attention Networks (GAT), Graph Convolutional Networks (GCN)
+- **Financial Analysis:** Quantitative Backtesting, Risk Attribution, Transaction Cost Stress Testing, Portfolio Optimization
+
+### 📊 Data Visualization & Business Intelligence
+- **Interactive Dashboards:** Power BI Desktop, DAX (Calculation Groups, Advanced Data Modeling), Azure Maps Integration
+- **Scientific Plotting:** Matplotlib, Seaborn (Custom Figma-style publication plots)
+
+---
+
+## 📂 Featured Research & Projects
+
+### 🚀 [pead-sp500-research](https://github.com/EA1904/pead-sp500-research)
+**Graph Attention Networks (GAT) for Post-Earnings Announcement Drift (PEAD) Prediction**
+An institutional-grade research platform predicting earnings announcement drifts on the S&P 500 universe using GNNs.
+- **Core Results:** Sector-filtered GAT model achieves a **Sharpe Ratio of 2.326** and **+81.9% Ann. Return** under 4.0 bps friction.
+- **Key Features:** Full quantitative backtesting engine, Ablation studies (GNN Permutation Tests verifying topology vs. weights), and cost stress testing up to 50 bps.
+- *Includes Figma-style strategy tearsheet dashboards.*
 
 ### 📊 [visualisations](https://github.com/EA1904/visualisations)
-Un portfolio regroupant 6 tableaux de bord interactifs conçus sous **Power BI Desktop** (avec des chartes graphiques personnalisées) :
-* **Spotify Listening Trends** : Analyse des habitudes d'écoute mondiales (489 milliards de streams).
-* **GeoSales Azure Map** : Visualisations géographiques et cartographies de ventes.
-* **Performance & Sales Insights** : Analyses temporelles dynamiques via les Groupes de Calculs DAX.
-* **eCommerce Conversion** : Suivi des tunnels d'achat et des taux de conversion en ligne.
-* **Sales Teams Quarterly** : Suivi des objectifs et performances individuelles des équipes commerciales.
-* **IT Support Tickets** : Suivi opérationnel des tickets d'assistance et de la conformité SLA.
+**Power BI Interactive Dashboard Portfolio**
+A compilation of 6 advanced, custom-designed business intelligence dashboards utilizing complex DAX calculation groups:
+- **Spotify Listening Trends:** Global streams analysis (489B streams).
+- **GeoSales Azure Map:** Dynamic geographical distribution mapping.
+- **eCommerce Conversion:** Purchase funnel tracking and conversion rate analysis.
+- **IT Support Tickets:** Operational ticketing SLA tracking.
 
 ### 📉 [MASI-Financial-Risk-Prediction](https://github.com/EA1904/MASI-Financial-Risk-Prediction)
-Modélisation prédictive du risque financier de l'indice boursier marocain **MASI** (Bourse de Casablanca) en utilisant des algorithmes avancés de Machine Learning (notamment **XGBoost**).
-
-### 🎓 [Ecole_doctoral_2026](https://github.com/EA1904/Ecole_doctoral_2026)
-Espace de travail académique pour regrouper mes cours, séminaires, revues de littérature, bibliographies et présentations de recherche doctorale pour l'année 2026.
+**Moroccan Stock Index (MASI) Risk Forecasting**
+Predictive modeling platform designed to forecast volatility and downside risks of the Casablanca Stock Exchange (MASI) index using **XGBoost** and ensemble learning.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EA1904&show_icons=true&theme=dark&hide_border=true" alt="Statistiques GitHub de EA1904" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EA1904&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EA1904&show_icons=true&theme=nord&hide_border=true" alt="EA1904's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EA1904&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="160" />
 </p>
